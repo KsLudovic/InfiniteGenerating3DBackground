@@ -1,5 +1,5 @@
 # Infinite3DBackgroundGeneration
-using noise to make smooth 3D, infinite background Generation
+using perlin noise to make smooth 3D, infinite background Generation
 
 done with processing
 
